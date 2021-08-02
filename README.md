@@ -1,5 +1,13 @@
 # SNAKE-GAME-USING-PYTHON
 A snake game is an arcade maze game which has been developed by Gremlin Industries and published by Sega in October 1976. It is considered to be a skilful game and has popularized among people for generations. The objective of this python project is to build a snake game project. In this python project, the player has to move a snake so it touches the fruit. If the snake touches itself or the border of the game then the game will over. Snake game is one of the most popular arcade games of all time. In this game, the main objective of the player is to catch the maximum number of fruits without hitting the wall or itself. Creating a snake game can be taken as a challenge while learning Python or Pygame. It is one of the best beginner-friendly projects that every novice programmer should take as a challenge. Learning to build a video game is kinda interesting and fun learning. 
+![image](https://user-images.githubusercontent.com/77485368/127917721-7c30a373-7523-4f94-8787-958fe9f2199f.png)
+
+
+
+
+
+
+
 ##	Objectives :-
 -	The snake in the Snake game is controlled using the four direction buttons relative to the direction it is headed in.
 - The player’s objective in the game is to achieve maximum points as possible by collecting food or fruits. 
